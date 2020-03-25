@@ -15,3 +15,5 @@ class BUIILDINGESCAPE_API ABuiildingEscapeGameModeBase : public AGameModeBase
 	GENERATED_BODY()
 	
 };
+
+
